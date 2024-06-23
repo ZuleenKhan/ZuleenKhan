@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZuleenKhan
-- 👀 I’m interested in Open source contributions, Blockchain and Smart contraacts.
+- 👀 I’m interested in Open source contributions, Blockchain and Smart contracts.
 - 🌱 I’m currently learning AI and Machine Learning.
 - 📫 Reach me at zuleen.khan670@gmail.com
 
